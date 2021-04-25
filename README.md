@@ -4,7 +4,7 @@
 
   This is a program of course registration for kodlama.io. The user who wants to register for the courses enters the information. Then console shows you confirmed registration and course time.
   
-  ### Example Output
+  ## Example Output
   
   *No-arg constructor is called*  
   
