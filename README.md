@@ -1,12 +1,12 @@
-### Second-Task
+# Second-Task
 
 -Second task for Java camp (kodlama.io)
 
   This is a program of course registration for kodlama.io. The user who wants to register for the courses enters the information. Then console shows you confirmed registration and course time.
   
-  #Example Output
+  ###Example Output
   
-  No-arg constructor is called 
+  'No-arg constructor is called' 
   Parameterized Constructor is called
   Parameterized Constructor is called
   
