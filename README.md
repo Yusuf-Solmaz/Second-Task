@@ -13,8 +13,7 @@
   *Hakan	Java
   
   Ahmet	C#
-  
-  Nazlı	Java
+  \ Nazlı	Java
   
   Registration confirmed for Hakan
   Course time is 2 Months for Java
