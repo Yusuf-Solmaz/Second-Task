@@ -7,19 +7,25 @@
   ### Example Output
   
   *No-arg constructor is called  
-*Parameterized Constructor is called*
+  
+  *Parameterized Constructor is called*
+  
   *Parameterized Constructor is called*
   
   *Hakan	Java
   
-  Ahmet	C#
-  \ Nazlı	Java
+  *Ahmet	C#
   
-  Registration confirmed for Hakan
-  Course time is 2 Months for Java
+  *Nazlı	Java
   
-  Registration confirmed for Ahmet
-  Course time is 2 Months for C#
+  *Registration confirmed for Hakan
   
-  Registration confirmed for Nazlı
-  Course time is 2 Months for Java*
+  *Course time is 2 Months for Java
+  
+  *Registration confirmed for Ahmet
+  
+  *Course time is 2 Months for C#
+  
+  *Registration confirmed for Nazlı
+  
+  *Course time is 2 Months for Java*
