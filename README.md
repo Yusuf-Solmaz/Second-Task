@@ -1,6 +1,6 @@
 # Second-Task
 
--Second task for Java camp (kodlama.io)
+- Second task for Java camp (kodlama.io)
 
   This is a program of course registration for kodlama.io. The user who wants to register for the courses enters the information. Then console shows you confirmed registration and course time.
   
